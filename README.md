@@ -73,10 +73,4 @@ ylabel("Gain");
 <img width="1835" height="963" alt="Screenshot 2025-11-18 112857" src="https://github.com/user-attachments/assets/7ac4e949-ac32-4229-8ff6-b2d90f0467df" />
 
  __Result__:
- The maximum radar detection range was calculated using the Radar Range Equation, and the Python implementation validated the result. Thus, radar range evaluation was successfully completed.
- 
-   
-
-
-
-
+ <img width="1623" height="686" alt="image" src="https://github.com/user-attachments/assets/afe59ebd-ec7a-4b02-a073-4e169e65f922" />
