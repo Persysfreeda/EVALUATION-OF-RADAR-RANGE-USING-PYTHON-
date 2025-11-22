@@ -61,6 +61,8 @@ plot(G_values, Pr_G);
 xlabel("Power Received");
 ylabel("Gain");
 ```
+ __table__:
+ ![WhatsApp Image 2025-11-22 at 6 57 14 PM](https://github.com/user-attachments/assets/99400a0a-da6a-4b28-9b4c-66cbd3fe3008)
 
  __Output__:
    
